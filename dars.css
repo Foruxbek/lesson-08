@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.navigation{
+    width: 100%;
+    height: 80px;
+    background-color: #2c2b2b;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+.navigation_logo{
+    margin-left: 87px;
+}
+.searchbar{
+    flex: 1;
+    height: 29px;
+    background-color: #fff;
+    border-radius: 6px;
+    margin-left: 83px;
+    color: black;
+    align-items: center;
+    display: flex;
+}
+.fa-search{
+    font-size: 20px;
+    color: #2AA2D5;
+    margin-left: 21px;
+}
+.searchbar_input{
+    height: 29px;
+    flex: 1;
+    border: none;
+    outline: none;
+    margin-left: 15px;
+    font-size: 16px;
+}
+.fa-times{
+    margin-right: 13px;
+}
+.collection{
+    display: flex;
+    list-style-type: none;
+    margin-right: 80px;
+}
+.collection_item{
+    margin: 29px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.banner{
+    width: 100%;
+    height: 718px;
+    background-position: bottom;
+    background-image: url("./Group\ 6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    background-color: #fff;
+}
+.banner_text{
+    width: 49.9%;
+    height: 572px;
+    background-color: #2AA2D5;  
+}
+.banner_image{
+    width: 50%;
+    height: 572px;
+    background-color: #2AA2D5; 
+}
+.text{
+    font-family: sans-serif;
+    font-size: 70px;
+    font-weight: 900;
+    color: #fff;
+    margin-top: 140px;
+    margin-left: 50px;
+}
+.text1{
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-left: 50px;
+    color: #fff;
+    font-weight: 400;
+}
+.btn{
+    width: 193px;
+    height: 43px;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: 600;
+}
+.img{
+    width: 370px;
+    height: 370px;
+    margin-top: 54px;
+    margin-left: 300px;
+}
+.text2{
+    font-family: sans-serif;
+    font-size: 90px;
+    font-weight: 900;
+    color: #fff;
+    padding-left: 260px;
+    padding-bottom: 90px;
+}
+.div1{
+    width: 100%;
+    height: 2100px;
+}
+.div2{
+    width: 100%;
+    height: 360px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.div3{
+    width: 600px;
+    height: 360px;
+    background-color: #fff;
+    justify-content: center;
+    display: flex;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 3px rgb(233, 233, 233);
+}
+.imgg{
+    width: 420px;
+    height: 360px;
+}
+.div4{
+    width: 100%;
+    height: 40px;
+    margin-top: 45px;
+}
+.aa{
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 600;
+    margin-left: 130px;
+    color: #2AA2D5;
+}
+.fa-android{
+    margin-right: 26px;
+}
+.bb{
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 600;
+    padding-left: 330px;
+    color: #2AA2D5;
+}
+.fa-apple{
+    padding-right: 20px;
+}
+.div5{
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 450px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 0px 10px 3px rgb(233, 233, 233);
+}
+.div6{
+    width: 600px;
+    height: 20px;
+    margin-top: 45px;
+    margin-left: 450px;
+    font-size: 19px;
+}
+.aa1{
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #2AA2D5;
+    padding-left: 30px;
+}
+.aa2{
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #2AA2D5;
+    padding-left: 120px;
+}
+.div7{
+    width: 100%;
+    height: 380px;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-around;
+}
+.img1{
+    width: 600px;
+}
+.div8{
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.div9{
+    width: 545px;
+    height: 390px;
+    line-height: 40px;  
+}
+.a1{
+    font-family: sans-serif;
+    font-size: 35px;
+    text-decoration: none;
+    color: #2AA2D5;
+    font-weight: 500;
+}
+.p1{
+    font-family: sans-serif;
+    font-size: 34px;
+    color: black;
+    padding-top: 30px;
+    font-weight: 600;
+}
